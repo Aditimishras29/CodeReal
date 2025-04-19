@@ -28,7 +28,7 @@ Screenshot from 2025-03-02 23-56-02 Screenshot from 2025-03-02 23-55-55 Screensh
 
 🛠 Installation
 Clone the repository
-git clone https://github.com/mishrayush-hub/CodeR.git cd Class-editor
+git clone https://github.com/Aditimishras29/CodeReal.git cd Class-editor
 
 Install backend dependencies
 cd CodeRserver npm install
